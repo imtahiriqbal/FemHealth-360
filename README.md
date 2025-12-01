@@ -1,5 +1,7 @@
 # **🏥 FemHealth 360: A Multi-Agent System for Personalized Women's Healthcare**
 
+![](img/logo.png)
+
 ## **🌟 Project Overview**
 
 **FemHealth 360** is a concierge AI agent system built using the **Google Agent Development Kit (ADK)** for the Kaggle Capstone Project. It is designed to provide comprehensive, holistic, and safe support for women managing chronic conditions (like PCOS or Endometriosis).
@@ -23,6 +25,8 @@ Agents provide the necessary **Orchestration, Statefulness, and Safety:**
 ## **🏛️ System Architecture and Key Features**
 
 The core architecture is a **Hierarchical Multi-Agent System** managed by a single orchestrator.
+
+![](img/mermaid-chart.png)
 
 | ADK Concept | Implementation in FemHealth 360 | Description & File |
 | :---- | :---- | :---- |
